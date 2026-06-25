@@ -1,0 +1,5 @@
+Laptop,1.25E7,5
+Smartphone,4500000.0,12
+Kemeja Flanel,175000.0,25
+Indomie Kardus,115000.0,50
+Buku Nota,12500.0,100
