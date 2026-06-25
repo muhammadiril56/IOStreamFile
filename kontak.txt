@@ -1,3 +1,3 @@
-Andi;0811111
-Budi;0822222
-Citra;0833333
+Syahro;0855;Syahro@gmail.com
+Fadel;0812;Fadel@yahoo.com
+Jaya;0838;Jaya@mail.com
